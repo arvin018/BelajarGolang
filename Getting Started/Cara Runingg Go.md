@@ -1,0 +1,1 @@
+go run  (nama program yang akan dijalankan)
